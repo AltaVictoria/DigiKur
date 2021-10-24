@@ -1,5 +1,4 @@
 # Übungsseite für die Lehrveranstaltung "Digitale Kompetenzen"
-## an der Universität für Weiterbildung Krems
-### gestartet im Wintersemester 2021
+### im Wintersemester 2021
 
-In diesem Repositorium werden Tutorials und Datensätze von Kulturerbe-Institutionen gesammelt und kuratiert werden.
+In diesem Repositorium werden Tutorials, Datensätze und Online Sammlungen von Kulturerbe-Institutionen gesammelt und kuratiert werden.
