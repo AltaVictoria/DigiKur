@@ -2,6 +2,7 @@
 
 * Smithsonian: https://github.com/Smithsonian
 * Rijksmuseum: https://github.com/Rijksmuseum
+* Object database of German museums: https://www.museum-digital.de/?lang=de
 * ONB-Labs (Austrian National Library): https://labs.onb.ac.at/en/
   * Experiments here: https://labs.onb.ac.at/gitlab/labs-team/public-wiki/-/wikis/home
 * Best list of datasets: http://museum-api.pbworks.com/w/page/21933420/Museum%C2%A0APIs
