@@ -18,3 +18,7 @@
 ## Archaeological datasets
 * Uni Tübingen: https://fdat.escience.uni-tuebingen.de/portal/#/start
 * Open Context (USA): https://github.com/opencontext
+
+
+### Dataset for case study:
+https://labs.onb.ac.at/en/dataset/akon/?id=AK077_216
