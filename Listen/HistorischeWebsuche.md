@@ -4,8 +4,9 @@
 
 # Kulturstatistik:
 Statistik Austria
-https://www.statistik.at/web_de/statistiken/menschen_und_gesellschaft/kultur/museen_und_ausstellungen/index.html 
+* https://www.statistik.at/web_de/statistiken/menschen_und_gesellschaft/kultur/museen_und_ausstellungen/index.html 
+* https://www.egmus.eu/nc/en/statistics/complete_data/country/austria/ 
+
 # Jährliche Berichte:
 Kunst- und Kulturberichte 
 https://www.bmkoes.gv.at/Service/Publikationen/Kunst-und-Kultur/kunst-und-kulturberichte.html
-![image](https://user-images.githubusercontent.com/49231730/142764005-05b6a2cf-bc42-4efc-897a-e22831daa51a.png)
