@@ -9,4 +9,4 @@ Statistik Austria
 
 # Jährliche Berichte:
 Kunst- und Kulturberichte 
-https://www.bmkoes.gv.at/Service/Publikationen/Kunst-und-Kultur/kunst-und-kulturberichte.html
+* https://www.bmkoes.gv.at/Service/Publikationen/Kunst-und-Kultur/kunst-und-kulturberichte.html
